@@ -1,16 +1,16 @@
-Sepal_Length,Sepal_Width,Petal_Length,Petal_Width,Board Game,Species
-5.1,0,1.4,0,Tiny Towns,setosa
-3.2,0,1.7,0,Love Letter,setosa
-2.5,0,1.2,0,Space Base,setosa
-2.9,0,1.5,0,Point Salad,setosa
-5.3,0,1.4,0,Mystic Vale,setosa
-4.7,0,1.2,0,Kingdomino,versicolor
-2.7,0,1.5,0,Photosynthesis,versicolor
-2.4,0,1.7,0,Planet,versicolor
-3.6,0,1.4,0,Blue Lagoon,versicolor
-4.1,0,1.2,0,Kingdomino Duel,versicolor
-2.6,0,1.4,0,Gizmos,virginica
-7.3,0,1.6,0,Blood Rage,virginica
-3.6,0,1.2,0,Rising Son,virginica
-5.5,0,1.5,0,The Godfather,virginica
-5.8,0,1.4,0,Zombicide: Black Plague,virginica
+Rating,,Number of Players,,Board Game,Publisher
+7.43,0,6949,0,Tiny Towns,AEG
+7.24,0,6944,0,Love Letter,AEG
+7.52,0,5370,0,Space Base,AEG
+7.35,0,3468,0,Point Salad,AEG
+7.30,0,2368,0,Mystic Vale,AEG
+7.36,0,10175,0,Kingdomino,Blue Orange
+7.19,0,4049,0,Photosynthesis,Blue Orange
+6.80,0,2575,0,Planet,Blue Orange
+7.24,0,1951,0,Blue Lagoon,Blue Orange
+7.10,0,840,0,Kingdomino Duel,Blue Orange
+7.50,0,5376,0,Gizmos,CMON
+8.01,0,4690,0,Blood Rage,CMON
+7.93,0,3324,0,Rising Son,CMON
+7.59,0,1500,0,The Godfather,CMON
+7.71,0,1498,0,Zombicide: Black Plague,CMON
